@@ -6,7 +6,7 @@
 
 ## 🎮 Gameplay Preview
 
-[![Watch the demo](https://youtu.be/FKgZkFTfWfE?si=s1twTSYO_JJL8TYx)
+[![Watch the demo] (https://youtu.be/FKgZkFTfWfE?si=s1twTSYO_JJL8TYx)
 
 > Click the link above to watch the gameplay demo on YouTube.
 
