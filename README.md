@@ -50,7 +50,7 @@ BirdyPipe/
 ## 💾 How to Run the Game
 
 ### 🔹 Option 1: Download & Play (Windows)
-> Coming soon on [Releases](https://github.com/yourusername/Birdy-Pipe/releases)
+> Coming soon 
 
 ### 🔹 Option 2: Open in Unity Editor
 1. Clone or download this repository.
